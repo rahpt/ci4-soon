@@ -1,7 +1,12 @@
 {
     "name": "rahpt/soon",
-    "description": "CI4 Modular Soon page sample",
+    "description": "Codeigniter4 Modular Soon page sample",
     "type": "library",
+    "keywords": [
+        "codeigniter",
+        "codeigniter4",
+        "bootstrap5"
+    ],
     "require": {
         "php": ">=7.4"
     },
