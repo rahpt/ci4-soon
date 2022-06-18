@@ -1,0 +1,21 @@
+{
+    "name": "rahpt/soon",
+    "description": "CI4 Modular Soon page sample",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "Unlicense",
+    "authors": [
+        {
+            "name": "Jose Proenca",
+            "email": "jose.proenca@rah.pt"
+        }
+    ],
+	"autoload": {
+        "psr-4": {
+            "Soon\\": "src/"
+        }
+	},
+    "minimum-stability": "dev"
+}
